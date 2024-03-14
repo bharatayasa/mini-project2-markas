@@ -229,5 +229,6 @@ func main() {
 		default:
 			fmt.Println("pilihan tidak valid")
 		}
+		fmt.Println("tes")
 	}
 }
